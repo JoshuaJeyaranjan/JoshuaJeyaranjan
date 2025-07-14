@@ -69,8 +69,8 @@ I’m currently focused on:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuajey&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuajey&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaJeyaranjan&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaJeyaranjan&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
 </p>
 
 ---
