@@ -56,7 +56,7 @@ I’m currently focused on:
 
 ---
 
-### 🚗 [Auto Body Shop Legacy Update](https://github.com/joshuajeyaranjan/reamworx-client)
+### 🚗 [Auto Body Shop Legacy Update](https://github.com/joshuajeyaranjan/dreamworx-client)
 > Revamping a legacy frontend for a local auto repair shop  
 > Tech: HTML/CSS, JavaScript, Bootstrap, Light UI Framework
 
