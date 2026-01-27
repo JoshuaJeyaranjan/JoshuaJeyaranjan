@@ -1,105 +1,147 @@
 # JoshuaJeyaranjan
-<!-- GitHub Profile README for Josh -->
 
-<h1 align="center">Hey, I'm Josh 👋</h1>
-<p align="center">
-  Full-Stack Developer | Building Tools with Code & Camera 📸
-</p>
+## Hey, I'm Josh 👋
+
+**Junior React Developer · Front-End Focused · Strong CS Fundamentals**
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate software engineer with a strong interest in the crossroads of **Computer Science, Physics, and AI**. I love building beautiful and functional full-stack applications—from **guitar tuners** to **e-commerce platforms for photography prints**.
+I’m a **junior software engineer focused on React and modern front-end development**, with a strong foundation in **computer science fundamentals and data structures**.
 
-I’m currently focused on:
-- 📷 Launching my photography print store ([joshuajeyphotography.com](https://joshuajeyphotography.com))
-- 💪 Mastering Data Structures & Algorithms (grinding NeetCode 150)
-- 🔧 Leveling up my backend skills with Docker, SQL, and cloud deployment
+I care deeply about **writing clean, maintainable code**, understanding *why* things work (not just how), and improving in public through consistent learning and writing.
+
+**What I bring to a team:**
+
+* Clear, structured problem-solving
+* Real-world, user-facing projects
+* Strong fundamentals over shallow framework knowledge
+* Consistent learning and documentation
+
+---
+
+## 🎯 Current Focus
+
+I’m intentionally optimizing for **hire-readiness** as a Junior React Engineer.
+
+### 🧠 Data Structures & Algorithms
+
+* Top **10% of users on NeetCode** by problems solved
+* Regularly publish articles breaking down DSA patterns and solutions
+* Strong grasp of trees, graphs, recursion, DP, and problem decomposition
+
+### ⚛️ React + TypeScript
+
+* Learning **TypeScript in public** with weekly written updates
+* Actively refactoring React projects to be fully typed
+* Focus on component architecture, state modeling, and correctness
+
+### 🌐 Professional Front-End Development
+
+* Responsive, accessible UI
+* API integration and real-world edge cases
+* Writing code meant to be read and maintained
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Server-Express-informational?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white)
-![Knex.js](https://img.shields.io/badge/ORM-Knex.js-informational?style=flat&logo=knex&logoColor=white)
-![Stripe](https://img.shields.io/badge/API-Stripe-informational?style=flat&logo=stripe&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/CDN-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white)
+**Front-End**
+
+* React
+* JavaScript (ES6+)
+* TypeScript
+* HTML, CSS / SCSS
+* Responsive & accessible UI design
+
+**Back-End & Tooling**
+
+* Node.js
+* Express
+* MySQL / SQL
+* REST APIs
+* Docker
+* Stripe
+* Cloudflare (R2, CDN)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📸 [Joshua Jey Photography](https://joshuajeyphotography.com)
-> A full-stack portfolio/e-commerce platform for selling original photo prints  
-> Tech: React, Node, PlanetScale (MySQL), Stripe, Cloudflare R2
+### 🧩 Portfolio Website
 
-- Responsive frontend with SCSS & dark mode
-- Stripe checkout with guest flow & persistent cart
-- Cloudflare R2 for scalable image hosting & delivery
+🔗 **[https://jjcodes.ca](https://jjcodes.ca)**
+
+A curated showcase of my engineering projects, focused on clean UI, real functionality, and production-ready code.
 
 ---
 
-### 🎸 [Guitar Tuner Web App](https://github.com/timwallacedev/tuner)
-> Team collaboration with my friends Tim & Ibrahim 
-> Real-time pitch detection tool for stringed instruments  
-> Tech: JavaScript, Web Audio API, React
+### 💳 Full-Stack E-Commerce Platform
 
-- Supports guitar, ukulele, banjo, and more
-- Visual animations + real-time audio input
-- Built for musicians and mobile-first use
+**Tech:** React, Node.js, MySQL, Stripe, Cloudflare
+
+* Responsive React frontend
+* Stripe checkout with guest and persistent cart flows
+* Cloud-based image hosting and delivery
+* Designed with scalability and maintainability in mind
 
 ---
 
-### 🚗 [Auto Body Shop Legacy Update](https://github.com/joshuajeyaranjan/dreamworx-client)
-> Revamping a legacy frontend for a local auto repair shop  
-> Tech: HTML/CSS, JavaScript, Bootstrap, Light UI Framework
+### 🎸 Guitar Tuner Web App
 
-- UI overhaul + “Before/After” image showcase
-- Booking system integration (coming soon)
-- Auth and service management roadmap
+🔗 **[https://tuner-deluxe.netlify.app](https://tuner-deluxe.netlify.app)**
+**Tech:** React, JavaScript, Web Audio API
+
+* Real-time pitch detection using browser audio APIs
+* Visual feedback with mobile-first UX
+* Built collaboratively with Git-based workflows
+
+---
+
+### 🚗 Legacy Frontend Modernization
+
+🔗 **[https://dreamworxautobody.com](https://dreamworxautobody.com)**
+**Tech:** JavaScript, HTML/CSS, Bootstrap
+
+* Modernized UI for a real local business
+* Improved responsiveness and UX
+* Roadmapped authentication and service management features
+
+---
+
+## ✍️ Writing & Learning in Public
+
+* Regular **technical articles on Data Structures & Algorithms**
+* Clear explanations of patterns, tradeoffs, and edge cases
+* Weekly posts documenting my **TypeScript learning journey**
+* Focused on clarity, not just solutions
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaJeyaranjan&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaJeyaranjan&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaJeyaranjan\&show_icons=true\&theme=github_dark\&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaJeyaranjan\&layout=compact\&theme=github_dark)
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Engineering Values
 
-- Data Structures & Algorithms (NeetCode 150)
-- Docker, CI/CD & backend dev in production
-- React best practices & testing workflows
-
----
-
-## 💡 Fun Facts
-
-- I plan all my projects on a massive wall of whiteboards
-- I journal every morning to stay sharp and focused
-- My rubber duck is my best debugging buddy 🦆
-- I'm deeply fascinated by how code can model the laws of physics and intelligence
+* Fundamentals > trends
+* Readable code beats clever code
+* Understanding tradeoffs matters
+* Consistency compounds
+* Shipping > over-polishing
 
 ---
 
-## � Let's Connect
+## 🤝 Let’s Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://joshuajeyphotography.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuajeyaranjan)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:joshuajeyaranjan@gmail.com)
+* 🌐 **Portfolio:** [https://jjcodes.ca](https://jjcodes.ca)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/joshua-jeyaranjan](https://www.linkedin.com/in/joshua-jeyaranjan)
+* 📫 **Email:** [joshuajeyaranjan@gmail.com](mailto:joshuajeyaranjan@gmail.com)
 
 ---
 
-> *"Code is the closest thing we have to magic."* ✨
-
-
+> *I’m not trying to look impressive — I’m trying to get better every day.*
