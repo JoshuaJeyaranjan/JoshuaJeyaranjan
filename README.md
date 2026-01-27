@@ -69,7 +69,7 @@ I’m intentionally optimizing for **hire-readiness** as a Junior React Engineer
 
 ## 🚀 Featured Projects
 
-### 🧩 Portfolio Website
+### 💼 Portfolio Website
 
 🔗 **[https://jjcodes.ca](https://jjcodes.ca)**
 
@@ -78,6 +78,7 @@ A curated showcase of my engineering projects, focused on clean UI, real functio
 ---
 
 ### 💳 Full-Stack E-Commerce Platform
+🔗 **[https://www.joshuajeyphotography.com](https://www.joshuajeyphotography.com)**
 
 **Tech:** React, Node.js, MySQL, Stripe, Cloudflare
 
@@ -102,7 +103,7 @@ A curated showcase of my engineering projects, focused on clean UI, real functio
 ### 🚗 Legacy Frontend Modernization
 
 🔗 **[https://dreamworxautobody.com](https://dreamworxautobody.com)**
-**Tech:** JavaScript, HTML/CSS, Bootstrap
+**Tech:** JavaScript, HTML/CSS, 
 
 * Modernized UI for a real local business
 * Improved responsiveness and UX
