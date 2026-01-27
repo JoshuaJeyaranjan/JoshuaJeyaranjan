@@ -2,13 +2,13 @@
 
 ## Hey, I'm Josh 👋
 
-**Junior React Developer · Front-End Focused · Strong CS Fundamentals**
+**Junior React Developer · Full-Stack Focused · Strong CS Fundamentals**
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **junior software engineer focused on React and modern front-end development**, with a strong foundation in **computer science fundamentals and data structures**.
+I’m a **junior software engineer focused on React and modern full-stack development**, with a strong foundation in **computer science fundamentals and data structures**.
 
 I care deeply about **writing clean, maintainable code**, understanding *why* things work (not just how), and improving in public through consistent learning and writing.
 
